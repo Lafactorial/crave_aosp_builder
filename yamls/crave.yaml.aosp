@@ -8,7 +8,7 @@ DerpFest-aosp:
 LOS 20:
   ignoreClientHostname: true 
 LOS 21:
-  ignoreClientHostname: true
+  ignoreClientHostname: false
 PixelOS:
   ignoreClientHostname: true
 LOS 16:
